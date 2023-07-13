@@ -3,3 +3,5 @@
 <?php echo "R" ?>
 <?php echo "I" ?>
 <?php echo "N" ?>
+<?php echo "M" ?>
+<?php echo "I" ?>
